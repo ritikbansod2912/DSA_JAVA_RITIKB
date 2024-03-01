@@ -1,3 +1,4 @@
+//Sqaure Pattern
 /*
   		* * * * *	outer loop -> 1 to n
   		* * * * *	inner loop -> 1 to n
